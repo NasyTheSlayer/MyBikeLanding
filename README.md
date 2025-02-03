@@ -1,6 +1,6 @@
 # MyBike landing page
 
-- [DEMO LINK](https://nasytheslayer.github.io/MyBike-landing/)
+- [DEMO LINK](https://nasytheslayer.github.io/MyBikeLanding/)
 
 - [Figma design](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1)
 
@@ -22,12 +22,12 @@ $ nvm use 14
 
 2. Clone the repository to your local machine, open terminal (GitBash for Windows users) and clone repo with command bellow:
 ```
-$ git clone https://github.com/NasyTheSlayer/Museum-2-landing
+$ git clone https://github.com/NasyTheSlayer/MyBikeLanding
 ```
 
 3. Open project in terminal (or GitBash for Windows users):
 ```
-$ code MyBike-landing
+$ code MyBikeLanding
 ```
 
 4. Set up project and install necessary packages in the code-editor you use:
